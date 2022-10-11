@@ -1,5 +1,4 @@
 # Yellow Taxi Demand Prediction
-> part of appliedaicourse.com
 
 ## Task -
 
